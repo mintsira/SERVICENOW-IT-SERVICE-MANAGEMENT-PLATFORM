@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>kb_managers</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>150</order>
+        <record_id_field/>
+        <screen display_value="Details">7e26e11487af3150331bfff4dabb3565</screen>
+        <screen_data_item_table>kb_knowledge_base</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>SIRA</sys_created_by>
+        <sys_created_on>2024-01-01 10:01:10</sys_created_on>
+        <sys_id>c726e11487af3150331bfff4dabb359c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>kb_managers</sys_name>
+        <sys_package display_value="innorequesttest2" source="x_mfec3_innoreques">e1f2e15087af3150331bfff4dabb35d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="innorequesttest2">e1f2e15087af3150331bfff4dabb35d7</sys_scope>
+        <sys_update_name>sys_sg_screen_field_c726e11487af3150331bfff4dabb359c</sys_update_name>
+        <sys_updated_by>SIRA</sys_updated_by>
+        <sys_updated_on>2024-01-01 10:01:10</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

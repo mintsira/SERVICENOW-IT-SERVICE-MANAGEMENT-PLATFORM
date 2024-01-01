@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Knowledge Base)">f626e11487af3150331bfff4dabb3570</button>
+        <item_parameter display_value="Knowledge Base disable_category_editing">3226e11487af3150331bfff4dabb356d</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>SIRA</sys_created_by>
+        <sys_created_on>2024-01-01 10:01:10</sys_created_on>
+        <sys_id>b626e11487af3150331bfff4dabb357a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3226e11487af3150331bfff4dabb356d</sys_name>
+        <sys_package display_value="innorequesttest2" source="x_mfec3_innoreques">e1f2e15087af3150331bfff4dabb35d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="innorequesttest2">e1f2e15087af3150331bfff4dabb35d7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b626e11487af3150331bfff4dabb357a</sys_update_name>
+        <sys_updated_by>SIRA</sys_updated_by>
+        <sys_updated_on>2024-01-01 10:01:10</sys_updated_on>
+        <ui_parameter display_value="Disable category editing">7e26e11487af3150331bfff4dabb3573</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
