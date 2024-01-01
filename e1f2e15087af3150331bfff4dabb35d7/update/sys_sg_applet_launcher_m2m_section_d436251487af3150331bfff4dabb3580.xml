@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="innorequesttest2">4b16611487af3150331bfff4dabb3526</applet_launcher>
+        <order/>
+        <section display_value="Request new Knowledge Base">d436251487af3150331bfff4dabb3573</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>SIRA</sys_created_by>
+        <sys_created_on>2024-01-01 10:01:15</sys_created_on>
+        <sys_id>d436251487af3150331bfff4dabb3580</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="innorequesttest2" source="x_mfec3_innoreques">e1f2e15087af3150331bfff4dabb35d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="innorequesttest2">e1f2e15087af3150331bfff4dabb35d7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_d436251487af3150331bfff4dabb3580</sys_update_name>
+        <sys_updated_by>SIRA</sys_updated_by>
+        <sys_updated_on>2024-01-01 10:01:15</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

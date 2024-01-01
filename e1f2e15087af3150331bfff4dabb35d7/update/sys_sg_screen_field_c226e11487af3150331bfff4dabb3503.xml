@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>location</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>80</order>
+        <record_id_field/>
+        <screen display_value="Details">8226a11487af3150331bfff4dabb35ed</screen>
+        <screen_data_item_table>sc_task</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>SIRA</sys_created_by>
+        <sys_created_on>2024-01-01 10:01:06</sys_created_on>
+        <sys_id>c226e11487af3150331bfff4dabb3503</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location</sys_name>
+        <sys_package display_value="innorequesttest2" source="x_mfec3_innoreques">e1f2e15087af3150331bfff4dabb35d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="innorequesttest2">e1f2e15087af3150331bfff4dabb35d7</sys_scope>
+        <sys_update_name>sys_sg_screen_field_c226e11487af3150331bfff4dabb3503</sys_update_name>
+        <sys_updated_by>SIRA</sys_updated_by>
+        <sys_updated_on>2024-01-01 10:01:06</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+</record_update>

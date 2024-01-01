@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">8226a11487af3150331bfff4dabb35ed</embedded_screen>
+        <form display_value="Catalog Task Form Screen">ca26a11487af3150331bfff4dabb35ec</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>SIRA</sys_created_by>
+        <sys_created_on>2024-01-01 10:01:06</sys_created_on>
+        <sys_id>8626a11487af3150331bfff4dabb35f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="innorequesttest2" source="x_mfec3_innoreques">e1f2e15087af3150331bfff4dabb35d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="innorequesttest2">e1f2e15087af3150331bfff4dabb35d7</sys_scope>
+        <sys_update_name>sys_sg_form_segment_8626a11487af3150331bfff4dabb35f0</sys_update_name>
+        <sys_updated_by>SIRA</sys_updated_by>
+        <sys_updated_on>2024-01-01 10:01:06</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Document Data)">7826a11487af3150331bfff4dabb3513</button>
+        <item_parameter display_value="Document Data u_importance">ac26a11487af3150331bfff4dabb3510</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>SIRA</sys_created_by>
+        <sys_created_on>2024-01-01 10:01:01</sys_created_on>
+        <sys_id>7026a11487af3150331bfff4dabb351a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ac26a11487af3150331bfff4dabb3510</sys_name>
+        <sys_package display_value="innorequesttest2" source="x_mfec3_innoreques">e1f2e15087af3150331bfff4dabb35d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="innorequesttest2">e1f2e15087af3150331bfff4dabb35d7</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_7026a11487af3150331bfff4dabb351a</sys_update_name>
+        <sys_updated_by>SIRA</sys_updated_by>
+        <sys_updated_on>2024-01-01 10:01:01</sys_updated_on>
+        <ui_parameter display_value="ความสำคัญ">3c26a11487af3150331bfff4dabb3514</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
